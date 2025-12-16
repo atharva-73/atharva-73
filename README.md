@@ -11,7 +11,12 @@ I'm **Atharva Barge**, a passionate DevOps Engineer with a love for cloud comput
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-barge-508686373/)
 
+---
 
+
+![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-73&show_icons=true&theme=radical)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
