@@ -16,7 +16,6 @@ I'm **Atharva Barge**, a passionate DevOps Engineer with a love for cloud comput
 
 ![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-73&show_icons=true&theme=radical)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
