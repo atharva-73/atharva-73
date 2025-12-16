@@ -17,7 +17,7 @@ I'm **Atharva Barge**, a passionate DevOps Engineer with a love for cloud comput
 
 ## 🛠️ Tools & Technologies:
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200"></img></p>
+<img src="[https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjRpMWc2NDQ4Nnc1anJpeHdpNW5sbGd2dHQ3ZDl3Z2d3M283Yml6dSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3zsEx2vm7aVY9U5hwr/giphy.webp)" width="200" height="200"></img></p>
 
 
 | Linux | Terraform | Jenkins | Kubernets | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
