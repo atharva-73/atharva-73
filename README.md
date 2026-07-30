@@ -42,11 +42,11 @@ I'm **Atharva Barge**, a passionate DevOps Engineer with a love for cloud comput
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    srcset="YOUR_AIRPLANE_DARK.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    srcset="YOUR_AIRPLANE_LIGHT.svg" />
+  <img alt="GitHub contribution grid airplane animation"
+    src="YOUR_AIRPLANE_LIGHT.svg" />
 </picture>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=atharva-73&color=green&style=flat-square)
