@@ -48,6 +48,7 @@ I'm **Atharva Barge**, a passionate DevOps Engineer with a love for cloud comput
   <img alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=atharva-73&color=green&style=flat-square)
 
 ---
